@@ -37,21 +37,21 @@
         "observable_expressions": [
             {
                 "expression": "num / den",
-                "terms": {
+                "variables": {
                     "num": "Gamma(W->munu)",
                     "den": "Gamma(W->enu)"
                 }
             },
             {
                 "expression": "num / den",
-                "terms": {
+                "variables": {
                     "num": "Gamma(W->taunu)",
                     "den": "Gamma(W->enu)"
                 }
             },
             {
                 "expression": "num / den",
-                "terms": {
+                "variables": {
                     "num": "Gamma(W->taunu)",
                     "den": "Gamma(W->munu)"
                 }
